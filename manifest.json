@@ -1,0 +1,10 @@
+{
+  "name": "F-Commerce Autopilot BD",
+  "short_name": "F-Commerce BD",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8f7",
+  "theme_color": "#0f766e",
+  "description": "Simple order management for social commerce sellers in Bangladesh.",
+  "icons": []
+}
